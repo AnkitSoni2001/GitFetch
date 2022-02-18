@@ -1,4 +1,1 @@
-hi i am txt file
-i stroe text file
-
-def
+hi i am def txt file
