@@ -3,3 +3,6 @@ welcome to Hello Git
 
 hello hey
 hey bro
+
+made some changes
+made some more changes
